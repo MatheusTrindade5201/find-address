@@ -1,6 +1,6 @@
 import styled from "styled-components";
-import logoMobile from "../../assets/images/LogoMobile.png"
-import logoDesktop from "../../assets/images/LogoDesktop.png"
+import logoMobile from "../../assets/images/LogoMobile.svg"
+import logoDesktop from "../../assets/images/LogoDesktop.svg"
 
 export const HeaderContainer = styled.header`
     display: flex;
